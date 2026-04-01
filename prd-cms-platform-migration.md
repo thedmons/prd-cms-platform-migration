@@ -219,7 +219,7 @@ The new platform replaces the legacy monolithic CMS with a composable, microserv
 | Content authoring time | Baseline | ≥50% reduction (key use cases) | ✅ Achieved (key use cases) |
 | LCP (top 20 pages) | Above threshold | ≤2.5s | 🟡 In progress |
 | CLS (all pages) | Above threshold | ≤0.1 | 🟡 In progress |
-| Pages migrated | 82 / 500+ | 500+ / 500+ | 🟡 In progress |
+| Pages migrated | 108 / 500+ | 500+ / 500+ | 🟡 In progress |
 
 ---
 
