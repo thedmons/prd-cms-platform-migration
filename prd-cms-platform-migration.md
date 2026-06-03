@@ -217,9 +217,9 @@ The new platform replaces the legacy monolithic CMS with a composable, microserv
 | Release frequency | 1x / 2 weeks | 3x / week | ✅ Achieved |
 | Page load speed (top page) | Baseline | ≥40% improvement | ✅ Achieved |
 | Content authoring time | Baseline | ≥50% reduction (key use cases) | ✅ Achieved (key use cases) |
-| LCP (top 20 pages) | Above threshold | ≤2.5s | 🟡 In progress |
-| CLS (all pages) | Above threshold | ≤0.1 | 🟡 In progress |
-| Pages migrated | 108 / 500+ | 500+ / 500+ | 🟡 In progress |
+| LCP (top 20 pages) | Above threshold | ≤2.5s | ✅ Achieved |
+| CLS (all pages) | Above threshold | ≤0.1 | ✅ Achieved |
+| Pages migrated | 445 / 500+ | 344 / 500+ 🟡 In progress |
 
 ---
 
