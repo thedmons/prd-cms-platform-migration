@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains the Product Requirements Document for the end-to-end migration of an enterprise CMS supporting a FinTech organization's public-facing website — 500+ pages serving over 40 million annual visitors — from a legacy monolithic CMS to a modern composable architecture built on Contentful, React/Next.js, and AWS CloudFront.
+This repository contains the Product Requirements Document for the end-to-end migration of an enterprise CMS supporting a FinTech organization's public-facing website — 500+ pages serving over 100 million annual visitors — from a legacy monolithic CMS to a modern 100composable architecture built on Contentful, React/Next.js, and AWS CloudFront.
 
 This is an active, in-progress initiative. The PRD reflects a live project with real status tracking, realized risks, and metrics updated as milestones are reached.
 
