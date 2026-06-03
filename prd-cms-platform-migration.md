@@ -2,7 +2,7 @@
 **Author:** Thomas Edmons, Platform and Digital Product Manager  
 **Status:** In Progress  
 **Timeline:** 18 months | Target completion: June 2026  
-**Last Updated:** February 2026
+**Last Updated:** June 2026
 
 ---
 
@@ -28,7 +28,7 @@
 
 This document defines the product requirements for the end-to-end migration of an enterprise Content Management System (CMS) supporting a FinTech organization's public-facing website. The existing platform — a legacy monolithic CMS — is being replaced with a modern, composable architecture built on microservices, headless content management, and cloud-native infrastructure.
 
-The migration encompasses 500+ webpages serving over 40 million annual visitors. It affects 12 content authors supporting 5 lines of business, and has direct implications for engineering velocity, operational cost, and customer experience performance.
+The migration encompasses 500+ webpages serving over 100 million annual visitors. It affects 12 content authors supporting 5 lines of business, and has direct implications for engineering velocity, operational cost, and customer experience performance.
 
 ---
 
