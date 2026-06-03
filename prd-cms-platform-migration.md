@@ -93,7 +93,7 @@ The existing CMS platform has created compounding constraints across cost, perfo
 **Success looks like:** Requests are fulfilled faster. A systematic design approach reduces back-and-forth revision cycles.
 
 ### Persona 4: Site Visitor (End Customer)
-**Who they are:** ~40M annual visitors to the unauthenticated public website, primarily prospective and existing customers of a FinTech product.  
+**Who they are:** ~100M annual visitors to the unauthenticated public website, primarily prospective and existing customers of a FinTech product.  
 **Goals:** Find information quickly; experience fast, reliable page loads; complete the login action without friction.  
 **Pain points:** Slow page load times create drop-off before the two primary user actions: conversion-driving CTAs for prospects and login for existing customers.  
 **Success looks like:** Pages load fast, render correctly across devices, and the path to both conversion CTAs and login is frictionless.
@@ -242,7 +242,7 @@ The legacy platform supported freeform, page-by-page design, creating significan
 
 **Risk: Zero-downtime migration cutover**  
 *Impact: High | Likelihood: Low*  
-Cutover of a 40M visitor/year website carries risk of downtime or degraded experience if not executed correctly.  
+Cutover of a 100M visitor/year website carries risk of downtime or degraded experience if not executed correctly.  
 *Mitigation:* Phased migration approach with parallel running of legacy and new platform. Comprehensive testing gates (functional, performance, accessibility) prior to each page group cutover. Rollback procedures defined for each phase.
 
 ---
@@ -256,9 +256,9 @@ Cutover of a 40M visitor/year website carries risk of downtime or degraded exper
 | GitLab CI/CD pipeline configuration | DevOps | ✅ Complete |
 | Enterprise design system component library | UX / Design | ✅ Complete |
 | Content inventory and audit (500+ pages) | Content Team + PM | ✅ Complete |
-| Migration automation tooling | Engineering | 🟡 In progress |
-| Business validation / UAT (5 LOBs) | Lines of Business | 🟡 In progress |
-| Legacy CMS decommission plan | Platform Engineering + PM | 🔴 Not started |
+| Migration automation tooling | Engineering | ✅ Completes |
+| Business validation / UAT (5 LOBs) | Lines of Business | ✅ Complete |
+| Legacy CMS decommission plan | Platform Engineering + PM | 🟡 In progres |
 
 ---
 
@@ -268,9 +268,9 @@ Cutover of a 40M visitor/year website carries risk of downtime or degraded exper
 |---|---|---|---|
 | 1 | What is the page-by-page migration prioritization order across 500+ pages? | PM | ✅ Complete |
 | 2 | What is the rollback strategy and criteria for triggering it during cutover? | Engineering | ✅ Complete |
-| 3 | How will SEO equity (URLs, metadata, redirects) be preserved during migration? | PM + Engineering | 🟡 In progress |
-| 4 | What is the sunset timeline for the legacy CMS post full migration? | PM + Finance | 🔴 Open |
-| 5 | Will AI coding assist tooling be standardized post-project or remain experimental? | Engineering Leadership | 🔴 Open |
+| 3 | How will SEO equity (URLs, metadata, redirects) be preserved during migration? | PM + Engineering | ✅ Complete |
+| 4 | What is the sunset timeline for the legacy CMS post full migration? | PM + Finance | 🟡 In progres |
+| 5 | Will AI coding assist tooling be standardized post-project or remain experimental? | Engineering Leadership | ✅ Complete |
 
 ---
 
